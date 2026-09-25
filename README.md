@@ -70,3 +70,22 @@ Implemented K-Means clustering to segment customers based on their characteristi
 
 🔗 [GitHub Repository](https://github.com/NVyshnavi007/customer_seg_pro3)
 
+
+## 💻 Coding & Problem Solving
+
+I regularly practice Data Structures and Algorithms to strengthen my problem-solving and programming skills.
+
+**Practicing**
+
+* Arrays & Strings
+* Hash Maps
+* Two Pointers
+* Binary Search
+* Sliding Window
+* Sorting
+* Recursion
+* Basic Java & Python programming
+
+🔗 [Python & Java Practice](https://github.com/NVyshnavi007/100-codes)
+
+
