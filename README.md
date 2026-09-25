@@ -42,3 +42,31 @@ I'm particularly interested in growing toward **Machine Learning Engineering**.
 * Jupyter Notebook
 * VS Code
 * PyCharm
+
+##  Featured Projects
+
+### Credit Card Fraud Detection API
+
+Built a Machine Learning API to detect potentially fraudulent credit card transactions and deployed it using FastAPI.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, FastAPI
+
+🔗 [GitHub Repository](https://github.com/NVyshnavi007/credit_card_fraud_detection)
+🔗 [Live API Documentation](https://fraud-detection-api-r37w.onrender.com/docs)
+
+### Sales Forecasting & Analysis
+
+Performed exploratory data analysis and forecasting to identify sales, profit, discount, and time-based business patterns.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+🔗 [GitHub Repository](https://github.com/NVyshnavi007/FUTURE_ML_1)
+
+### Customer Segmentation
+
+Implemented K-Means clustering to segment customers based on their characteristics and identify meaningful customer groups.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+🔗 [GitHub Repository](https://github.com/NVyshnavi007/customer_seg_pro3)
+
