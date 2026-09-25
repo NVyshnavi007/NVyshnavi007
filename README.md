@@ -71,7 +71,7 @@ Implemented K-Means clustering to segment customers based on their characteristi
 🔗 [GitHub Repository](https://github.com/NVyshnavi007/customer_seg_pro3)
 
 
-## 💻 Coding & Problem Solving
+## Coding & Problem Solving
 
 I regularly practice Data Structures and Algorithms to strengthen my problem-solving and programming skills.
 
@@ -87,5 +87,20 @@ I regularly practice Data Structures and Algorithms to strengthen my problem-sol
 * Basic Java & Python programming
 
 🔗 [Python & Java Practice](https://github.com/NVyshnavi007/100-codes)
+
+##  Currently Learning
+
+* Deep Learning with PyTorch
+* Computer Vision
+* Natural Language Processing (NLP)
+* MLOps
+* Building and deploying Machine Learning APIs
+
+## Connect With Me
+
+* LinkedIn: [Naga Vyshnavi](https://www.linkedin.com/in/nagavyshnavi-nannapaneni-94a62a31b/)
+* GitHub: [NVyshnavi007](https://github.com/NVyshnavi007)
+
+
 
 
