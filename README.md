@@ -27,13 +27,6 @@ I'm particularly interested in growing toward **Machine Learning Engineering**.
 * Supervised Learning
 * Unsupervised Learning
 
-**Currently Exploring**
-
-* Deep Learning
-* PyTorch
-* Computer Vision
-* NLP
-* MLOps
 
 **Development & Tools**
 
